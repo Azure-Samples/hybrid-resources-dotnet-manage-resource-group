@@ -4,7 +4,7 @@ platforms: dotnet
 author: seyadava
 ---
 
-# Getting Started with Resources - Manage Resource Groups in Hybrid Environment - in C# asynchronously #  
+## Getting Started with Resources - Manage Resource Groups in Hybrid Environment - in C# asynchronously ##  
 
 Azure Stack resource sample for managing resource groups - 
 - Create a resource group
