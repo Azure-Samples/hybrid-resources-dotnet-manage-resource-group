@@ -1,13 +1,11 @@
 ---
-topic: sample
+page_type: sample
 languages:
- - dotnet
- - csharp
+- csharp
 products:
- - azure-sdks
-services: Azure-Stack
-platforms: dotnet
-author: seyadava
+- azure
+description: "Azure Stack resource sample for managing resource groups"
+urlFragment: hybrid-resources-dotnet-manage-resource-group
 ---
 
 # Hybrid-Resources-DotNET-Manage-ResourceGroup #  
