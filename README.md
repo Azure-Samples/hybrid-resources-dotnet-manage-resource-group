@@ -3,21 +3,24 @@ page_type: sample
 languages:
 - csharp
 products:
+- dotnet
 - azure
+- azure-resource-manager
 description: "Azure Stack resource sample for managing resource groups"
 urlFragment: hybrid-resources-dotnet-manage-resource-group
 ---
 
-# Hybrid-Resources-DotNET-Manage-ResourceGroup #  
+# Hybrid-Resources-DotNET-Manage-ResourceGroup
 
-Azure Stack resource sample for managing resource groups - 
+Azure Stack resource sample for managing resource groups.
+
 - Create a resource group
 - Update a resource group
 - Create another resource group
 - List resource groups
 - Delete a resource group
 
-## Running this sample ##
+## Running this sample
 
 To run this sample:
 
@@ -51,10 +54,8 @@ To run this sample:
 
     dotnet run
 
-## More information ##
+## More information
 
 [Azure .Net Developer Center](https://azure.microsoft.com/en-us/develop/net/)
-
----
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
